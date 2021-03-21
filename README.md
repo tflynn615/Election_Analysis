@@ -9,8 +9,10 @@ The purpose of this project was to audit the results of a local election across 
 - There were 368,991 votes cast in this congressional election. 
 - Please see the below breakdown of voter turnout percentage and total count of votes: 
 
-Jefferson: 10.5% (38,855)\n
+Jefferson: 10.5% (38,855)
+
 Denver: 82.8% (306,055)
+
 Arapahoe: 6.7% (24,801)
 
 - As evidenced above, Denver county had the largest number of votes with 306,055 ballots cast. 
