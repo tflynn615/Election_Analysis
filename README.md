@@ -19,7 +19,9 @@ Arapahoe: 6.7% (24,801)
 - Please see below a breakdown of the number of votes and the percentage of the total votes each candidate received:
 
 Charles Casper Stockham: 23.0% (85,213)
+
 Diana DeGette: 73.8% (272,892)
+
 Raymon Anthony Doane: 3.1% (11,606)
 
 From this, we can see that the clear winner of this election was Diana DeGette with 272,892 votes making up 73.8% of votes cast. 
